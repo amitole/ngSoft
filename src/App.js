@@ -1,4 +1,4 @@
-import './style/App.css';
+import './App.css';
 
 import Main from './main/Main'
 import SideBar from './sidebar/SideBar'
