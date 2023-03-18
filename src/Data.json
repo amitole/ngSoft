@@ -1,0 +1,110 @@
+{
+    "tableHeaderName": [
+        "מועמד",
+        "תעודת זהות",
+        "טלפון נייד",
+        "כתובת מייל",
+        "תפקיד",
+        "מרפאה",
+        "הוקם ב",
+        "מי הקים",
+        "גורם מאשר",
+        "סטטוס",
+        "דרגה",
+        "צפייה",
+        "מחק"
+    ],
+    "users": [
+        {
+            "name": "ירון ברנשטיין",
+            "idNumber": "3207567863",
+            "phoneNumber": "0503898000",
+            "email": "yaron@maccabi-dent.com",
+            "role": "סמנכ''ל רפואה",
+            "clinic": "אשדוד",
+            "createAt": "12.01.2021",
+            "userCreate": "דגנית",
+            "approveBy": "רם שפר",
+            "status": "ממתין",
+            "rank": "ג"
+        },
+        {
+            "name": "רינת דרור",
+            "idNumber": "582031103",
+            "phoneNumber": "0503898000",
+            "email": "rinat@maccabi-dent.com",
+            "role": "סמנכ''ל מא",
+            "clinic": "תל אביב",
+            "createAt": "23.01.2021",
+            "userCreate": "אדמ אשדוד",
+            "approveBy": "דינה משיח",
+            "status": "ממתין",
+            "rank": "ג"
+        },
+        {
+            "name": "ניצה גלעד",
+            "idNumber": "329048599",
+            "phoneNumber": "0503898000",
+            "email": "nitza@maccabi-dent.com",
+            "role": "סמנכ''ל תפעול",
+            "clinic": "הרצליה",
+            "createAt": "01.02.2021",
+            "userCreate": "לורן",
+            "approveBy": "מיכל רובין",
+            "status": "ממתין",
+            "rank": "שא"
+        },
+        {
+            "name": "גליה לוי",
+            "idNumber": "100935359",
+            "phoneNumber": "0503898000",
+            "email": "galia@maccabi-dent.com",
+            "role": "מנהל מרפאה",
+            "clinic": "מטה",
+            "createAt": "09.02.2021",
+            "userCreate": "לורן",
+            "approveBy": "רינת דור",
+            "status": "מאושר",
+            "rank": "א"
+        },
+        {
+            "name": "רם שפר",
+            "idNumber": "186773301",
+            "phoneNumber": "0503898000",
+            "email": "ram@maccabi-dent.com",
+            "role": "ס.סמנכ''ל רפואה",
+            "clinic": "אילת",
+            "createAt": "23.03.2021",
+            "userCreate": "דגנית",
+            "approveBy": "ניצה גלעד",
+            "status": "מאושר",
+            "rank": "א"
+        },
+        {
+            "name": "מיכל רובין",
+            "idNumber": "184979449",
+            "phoneNumber": "0503898000",
+            "email": "michal@maccabi-dent.com",
+            "role": "מנהל תפעול",
+            "clinic": "נהריה",
+            "createAt": "25.03.2021",
+            "userCreate": "אדמ אשדוד",
+            "approveBy": "מיכל רובין",
+            "status": "מאושר",
+            "rank": "ב"
+        },
+        {
+            "name": "דינה משיח",
+            "idNumber": "110549923",
+            "phoneNumber": "0503898000",
+            "email": "dina@maccabi-dent.com",
+            "role": "רפואה",
+            "clinic": "ירושלים",
+            "createAt": "29.03.2021",
+            "userCreate": "לורן",
+            "approveBy": "רם שפר",
+            "status": "מאושר",
+            "rank": "ב"
+        }
+    ]
+}

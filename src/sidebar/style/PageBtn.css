@@ -1,0 +1,19 @@
+.logo {
+    display: flex;
+    flex-direction: row;
+    width: 18px;
+    height: 18px;
+    margin-left: 15px;
+}
+
+.btn {
+    width: 191px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    border-bottom: 1px solid #E6E6E6;
+}
+
+.btn-logo {
+    margin-left: 15px;
+}

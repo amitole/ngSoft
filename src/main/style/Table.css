@@ -1,0 +1,27 @@
+.Table {
+    margin-right: 55px;
+    margin-left: 81px;
+    margin-top: 50px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 17px rgba(0, 0, 0, 0.06);
+}
+
+table {
+    width: 100%;
+}
+
+tr {
+    
+    display: flex;
+    flex-direction: row;
+}
+
+tr>th {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #172882;
+    height: 57px;
+    border-bottom: 1px solid #E6E6E6;
+}

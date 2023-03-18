@@ -1,0 +1,42 @@
+.navbar {
+    width: 100%;
+    background: linear-gradient(269.81deg, #53B6E6 -0.35%, #8D5FF5 101.01%);
+    height: 81px;
+    padding-left: 81px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+}
+
+.user {
+    width: 140px;
+    height: 40px;
+    color: #FFFFFF;
+    text-align: right;
+    margin-right: 18px;
+    margin-left: 8px;
+}
+
+.user-name {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.user-details {
+    font-size: 12px;
+}
+
+.arrow {
+    width: 8px;
+    height: 4px;
+    position: absolute;
+    left: 4.22%;
+    right: 95.36%;
+    top: 3.5%;
+    bottom: 96.85%;
+}
